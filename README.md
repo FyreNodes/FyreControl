@@ -1,4 +1,4 @@
-![FyreNodes Logo](https://fyrenodes.s3.amazonaws.com/assets/logo/icon-transparent.png)
+![FyreNodes Banner](https://fyrenodes.s3.amazonaws.com/assets/banner/fyrenodes.png)
 # FyreControl
 Public version of FyreControl (deprecated v1.8)
 
